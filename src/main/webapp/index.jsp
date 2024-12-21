@@ -4,9 +4,8 @@
 
 <h2>Hello {MICHAEL}!</h2>
 
-<p>If you see this line in Github, that means ksk your latest changes are getting pushed to your cloud repo :o</p>
+<p>This is my NextWork web application working!</p>
 
 </body>
 
 </html>
-
